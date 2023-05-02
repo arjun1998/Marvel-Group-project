@@ -5,4 +5,6 @@ Marvel Group Project
 
 -Start jupyter notebook and open the downloaded ipynb file
 
+-Make sure that all the required libraries are preinstalled in your machine before running the notebook.
+
 -To verify the results, run the notebook
