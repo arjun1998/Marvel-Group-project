@@ -8,3 +8,7 @@ Marvel Group Project
 -Make sure that all the required libraries are preinstalled in your machine before running the notebook.
 
 -To verify the results, run the notebook
+
+
+Comments-
+--The scatterplot output of the second feature(Customer Segmentation) cannot be viewed without running the entire code.
